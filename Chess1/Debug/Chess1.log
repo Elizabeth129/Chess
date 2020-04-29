@@ -1,0 +1,4 @@
+﻿  Chess1.cpp
+D:\Chess1\Chess1\Chess1.cpp(1125): warning C4715: Moves::CheckWhite1: значение возвращается не при всех путях выполнения
+D:\Chess1\Chess1\Chess1.cpp(1139): warning C4715: Moves::CheckBlack1: значение возвращается не при всех путях выполнения
+  Chess1.vcxproj -> D:\Chess1\Debug\Chess1.exe

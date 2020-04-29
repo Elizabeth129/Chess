@@ -1,0 +1,4 @@
+﻿  UnitTests.cpp
+D:\Chess1\Chess1\Chess1.cpp(1154): warning C4715: Moves::CheckBlack1: значение возвращается не при всех путях выполнения
+D:\Chess1\Chess1\Chess1.cpp(1140): warning C4715: Moves::CheckWhite1: значение возвращается не при всех путях выполнения
+  UnitTests.vcxproj -> D:\Chess1\Debug\UnitTests.dll
